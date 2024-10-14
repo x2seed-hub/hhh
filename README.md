@@ -5,15 +5,15 @@
 <!--[if gt IE 8]><!-->
 <html lang="en">
 <!--<![endif]-->
-<head data-machine-id="24eb0b0b-64fe-4add-a32d-31d49a05bddb">
-    <!-- MachineID: 24eb0b0b-64fe-4add-a32d-31d49a05bddb -->
-    <title>Blox Fruits - Roblox</title>
+<head data-machine-id="ecf37e5d-f96b-53fd-347c-f6e85f2ca4ec">
+    <!-- MachineID: ecf37e5d-f96b-53fd-347c-f6e85f2ca4ec -->
+    <title>Log in to Roblox</title>
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,requiresActiveX=true" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Roblox Corporation" />
-<meta name="description" content="Holiday Update Part 1 included: Mythical T-Rex fruit &#x2B; new subclass&#xA;&#xA;Welcome to Blox Fruits! Become a master swordsman or a powerful blox fruit user as you train to become the strongest player to ever live. You can choose to fight against tough enemies or have powerful boss battles while sailing across the ocean to find hidden secrets. &#xA;&#xA;Current level cap: 2550&#xA;Current fruits in the game:&#xA;Rocket, Spin, Chop, Spring, Bomb, Smoke, Spike, Flame, Falcon, Ice, Sand, Dark, Diamond, Light, Rubber, Barrier, Ghost, Magma, Quake, Buddha, Love, Spider, Sound, Phoenix, Portal, Rumble, Pain, Blizzard, Gravity, Mammoth, T-Rex, Dough, Shadow, Venom, Control, Spirit, Dragon, Leopard, Kitsune&#xA;&#xA;FAQ:&#xA;- Fruits spawn in the map every hour / despawn after 20. &#xA;- You can buy fruits from the Blox Fruits Dealer. He restocks random fruits every 4 hours &#xA;- More info in the group description&#xA;&#xA;Do not exploit, our auto-detection will catch you and we do not appeal our bans." />
+<meta name="description" content="Login to your Roblox account or sign up to create a new account." />
 <meta name="keywords" content="free games, online games, building games, virtual worlds, free mmo, gaming cloud, physics engine" />
 
     <meta name="apple-itunes-app" content="app-id=431946152" />
@@ -42,29 +42,6 @@
     ]
     }
 </script>
-    <meta property="og:site_name" content="Roblox" />
-    <meta property="og:title" content="Blox Fruits" />
-    <meta property="og:type" content="game" />
-        <meta property="og:url" content="https://www.roblox.com/game-details-web-subsite/games/2753915549/Blox-Fruits" />
-    <meta property="og:description" content="Holiday Update Part 1 included: Mythical T-Rex fruit &#x2B; new subclass&#xA;&#xA;Welcome to Blox Fruits! Become a master swordsman or a powerful blox fruit user as you train to become the strongest player to ever live. You can choose to fight against tough enemies or have powerful boss battles while sailing across the ocean to find hidden secrets. &#xA;&#xA;Current level cap: 2550&#xA;Current fruits in the game:&#xA;Rocket, Spin, Chop, Spring, Bomb, Smoke, Spike, Flame, Falcon, Ice, Sand, Dark, Diamond, Light, Rubber, Barrier, Ghost, Magma, Quake, Buddha, Love, Spider, Sound, Phoenix, Portal, Rumble, Pain, Blizzard, Gravity, Mammoth, T-Rex, Dough, Shadow, Venom, Control, Spirit, Dragon, Leopard, Kitsune&#xA;&#xA;FAQ:&#xA;- Fruits spawn in the map every hour / despawn after 20. &#xA;- You can buy fruits from the Blox Fruits Dealer. He restocks random fruits every 4 hours &#xA;- More info in the group description&#xA;&#xA;Do not exploit, our auto-detection will catch you and we do not appeal our bans." />
-            <meta property="og:image" content="https://tr.rbxcdn.com/180DAY-5304fe8fb874c7244eb4fe24ff324b17/500/280/Image/Jpeg/noFilter" />
-    <meta property="fb:app_id" content="190191627665278">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@Roblox">
-    <meta name="twitter:title" content="Blox Fruits">
-    <meta name="twitter:description" content="Holiday Update Part 1 included: Mythical T-Rex fruit &#x2B; new subclass&#xA;&#xA;Welcome to Blox Fruits! Become a master swordsman or a powerful blox fruit user as you train to become the strongest player to ever live. You can choose to fight against tough enemies or have powerful boss battles while sailing across the ocean to find hidden secrets. &#xA;&#xA;Current level cap: 2550&#xA;Current fruits in the game:&#xA;Rocket, Spin, Chop, Spring, Bomb, Smoke, Spike, Flame, Falcon, Ice, Sand, Dark, Diamond, Light, Rubber, Barrier, Ghost, Magma, Quake, Buddha, Love, Spider, Sound, Phoenix, Portal, Rumble, Pain, Blizzard, Gravity, Mammoth, T-Rex, Dough, Shadow, Venom, Control, Spirit, Dragon, Leopard, Kitsune&#xA;&#xA;FAQ:&#xA;- Fruits spawn in the map every hour / despawn after 20. &#xA;- You can buy fruits from the Blox Fruits Dealer. He restocks random fruits every 4 hours &#xA;- More info in the group description&#xA;&#xA;Do not exploit, our auto-detection will catch you and we do not appeal our bans.">
-    <meta name="twitter:creator">
-            <meta name=twitter:image1 content="https://tr.rbxcdn.com/180DAY-5304fe8fb874c7244eb4fe24ff324b17/500/280/Image/Jpeg/noFilter" />
-    <meta name="twitter:app:country" content="US">
-    <meta name="twitter:app:name:iphone" content="Roblox Mobile">
-    <meta name="twitter:app:id:iphone" content="431946152">
-    <meta name="twitter:app:url:iphone" content="robloxmobile://placeID=2753915549">
-    <meta name="twitter:app:name:ipad" content="Roblox Mobile">
-    <meta name="twitter:app:id:ipad" content="431946152">
-    <meta name="twitter:app:url:ipad" content="robloxmobile://placeID=2753915549">
-    <meta name="twitter:app:name:googleplay" content="Roblox">
-    <meta name="twitter:app:id:googleplay" content="com.roblox.client">
-    <meta name="twitter:app:url:googleplay" content="robloxmobile://placeID=2753915549" />
 
 <meta ng-csp="no-unsafe-eval">
 
@@ -118,7 +95,7 @@
       data-is-passkey-login-enabled="true" />
 <meta name="passkey-data-android"
       data-is-passkey-login-enabled-android="true" />
-<meta name="page-meta" data-internal-page-name="GameDetail" />
+<meta name="page-meta" data-internal-page-name="Login" />
 <meta name="page-retry-header-enabled" data-retry-attempt-header-enabled="True" />
 
 <script type="text/javascript">
@@ -460,51 +437,43 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
 <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="Footer" data-bundle-source="Main" href="https://css.rbxcdn.com/12cb426f1649d8c5573f65f01b0e69618bd31ed9dbbf7be213d742200307601f.css" />
 <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ConfigureWebApps" data-bundle-source="Main" href="https://css.rbxcdn.com/08def520152a575438e73a81aa9a310c2415c327df7b624a24aa6e794d24dba3.css" />
 
-    <link rel="canonical" href="https://www.roblox.com/games/2753915549/Blox-Fruits" />
+    <link rel="canonical" href="https://www.roblox.com/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" />
     
 
-    <link rel="alternate" href="https://www.roblox.com/games/2753915549/Blox-Fruits" hreflang="x-default" />
-    <link rel="alternate" href="https://www.roblox.com/de/games/2753915549/Blox-Fruits" hreflang="de" />
-    <link rel="alternate" href="https://www.roblox.com/es/games/2753915549/Blox-Fruits" hreflang="es" />
-    <link rel="alternate" href="https://www.roblox.com/fr/games/2753915549/Blox-Fruits" hreflang="fr" />
-    <link rel="alternate" href="https://www.roblox.com/id/games/2753915549/Blox-Fruits" hreflang="id" />
-    <link rel="alternate" href="https://www.roblox.com/it/games/2753915549/Blox-Fruits" hreflang="it" />
-    <link rel="alternate" href="https://www.roblox.com/ja/games/2753915549/Blox-Fruits" hreflang="ja" />
-    <link rel="alternate" href="https://www.roblox.com/ko/games/2753915549/Blox-Fruits" hreflang="ko" />
-    <link rel="alternate" href="https://www.roblox.com/pl/games/2753915549/Blox-Fruits" hreflang="pl" />
-    <link rel="alternate" href="https://www.roblox.com/pt/games/2753915549/Blox-Fruits" hreflang="pt" />
-    <link rel="alternate" href="https://www.roblox.com/th/games/2753915549/Blox-Fruits" hreflang="th" />
-    <link rel="alternate" href="https://www.roblox.com/tr/games/2753915549/Blox-Fruits" hreflang="tr" />
-    <link rel="alternate" href="https://www.roblox.com/vi/games/2753915549/Blox-Fruits" hreflang="vi" />
+    <link rel="alternate" href="https://www.roblox.com/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="x-default" />
+    <link rel="alternate" href="https://www.roblox.com/de/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="de" />
+    <link rel="alternate" href="https://www.roblox.com/es/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="es" />
+    <link rel="alternate" href="https://www.roblox.com/fr/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="fr" />
+    <link rel="alternate" href="https://www.roblox.com/id/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="id" />
+    <link rel="alternate" href="https://www.roblox.com/it/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="it" />
+    <link rel="alternate" href="https://www.roblox.com/ja/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="ja" />
+    <link rel="alternate" href="https://www.roblox.com/ko/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="ko" />
+    <link rel="alternate" href="https://www.roblox.com/pl/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="pl" />
+    <link rel="alternate" href="https://www.roblox.com/pt/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="pt" />
+    <link rel="alternate" href="https://www.roblox.com/th/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="th" />
+    <link rel="alternate" href="https://www.roblox.com/tr/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="tr" />
+    <link rel="alternate" href="https://www.roblox.com/vi/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fgames%2F2753915549%2FBlox-Fruits%3FgameSearchSessionInfo%3D15d428d6-fd76-4d69-8c03-d8c89951d603%26isAd%3Dfalse%26nativeAdData%3D%26numberOfLoadedTiles%3D40%26page%3DsearchPage%26placeId%3D2753915549%26position%3D0%26universeId%3D994732206" hreflang="vi" />
 
     
 <link onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' rel='stylesheet'  href='https://static.rbxcdn.com/css/leanbase___fb0c7d1e28371fc5e8367ce241b98d69_m.css/fetch' />
 
 
     
-<link onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' rel='stylesheet'  href='https://static.rbxcdn.com/css/page___5d2d32ba9044f7e5240b31e97f3ec320_m.css/fetch' />
-
 
 <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="AccessManagementUpsellV2" data-bundle-source="Main" href="https://css.rbxcdn.com/be8c304d40ebe0241cd08bead0d85cda0dcaa4810879aa6fac579cfacdf84db6.css" />
 <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="Captcha" data-bundle-source="Main" href="https://css.rbxcdn.com/4c3fec0ce872f94f2c2be18e6fd016e43fdc4ccecad591cdaa3a63116f512178.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="GameBadges" data-bundle-source="Main" href="https://css.rbxcdn.com/11152b195445cc18189df3f20d352258bf79b0cf1473d8a7879be1c8822c28d0.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ItemPurchaseUpsell" data-bundle-source="Main" href="https://css.rbxcdn.com/3c4bd9b17b9020d9ebc87d4542a68a949a9de6150a55a92f0e65514520ee777e.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ItemPurchase" data-bundle-source="Main" href="https://css.rbxcdn.com/8efa79e576b0df3d4c51fb1eb4e13af137d5eb8f44aef51321f7d4abbf9c3a86.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="IdVerification" data-bundle-source="Main" href="https://css.rbxcdn.com/3bca47a98d58fdf98a7063c4f3b390671e5326ed559813887f3945876c997da6.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="GameDetailsVirtualEventsSection" data-bundle-source="Main" href="https://css.rbxcdn.com/1b3a12ed87597c5a2e26330970494da30c65dc4cfd209eff49a35fb247b13a6c.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="SocialLinksJumbotron" data-bundle-source="Main" href="https://css.rbxcdn.com/467f43bdbf273ff37c4627800d0f7170b246ff19ce420efe75b7c16dd9f840a7.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ServerList" data-bundle-source="Main" href="https://css.rbxcdn.com/7440adb3d4e19fb86318bc1bbd8cefe11c7b6de1ced2818f39bad4afc31e3756.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="GameGuidelines" data-bundle-source="Main" href="https://css.rbxcdn.com/d8ed2155ed37f7fb6502da704febfb3190d91b8fa8278bd50b7e600b46405a8a.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="GameCommunity" data-bundle-source="Main" href="https://css.rbxcdn.com/d4cb062aaf52b33076de597c27234de404ed0ad2572c72f5fa7934e79c469160.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="GameSubscriptions" data-bundle-source="Main" href="https://css.rbxcdn.com/7ed03333de41dcf7c9ca1c98e41fb33edbbb3d57bf145f4691dcd3f69fd26cbe.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="GameDetails" data-bundle-source="Main" href="https://css.rbxcdn.com/22b452d1f91249510382ac8f11504b0b6eb6184fca0725fcd180e28f575cf188.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="RecommendedGames" data-bundle-source="Main" href="https://css.rbxcdn.com/840790b1be648cb9f5555648a4c06863c453239e322b98484a84495ddedb1bc4.css" />
-<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="AccessManagementUpsell" data-bundle-source="Main" href="https://css.rbxcdn.com/b97f5366de00af6849bfeea201c37525835bb37d0a6741d479d8ea0c5085e609.css" />
+<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="CrossDeviceLoginDisplayCode" data-bundle-source="Main" href="https://css.rbxcdn.com/59dc4960d692ecd4d1c46d72048095b94515fe07a5ea6d619ac5a475d25dfe21.css" />
+<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="AccountSelector" data-bundle-source="Main" href="https://css.rbxcdn.com/97a9d5a74599e95902f6456aea6e3cfaa9fe463ebbe0ae4a6a5025d40e1b7866.css" />
+<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ReactLogin" data-bundle-source="Main" href="https://css.rbxcdn.com/d584565dd1339ac8a09691938aa4cff54511f32a9bba1b9f013d6e32195b4f5a.css" />
+<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="AccountRecoveryModal" data-bundle-source="Main" href="https://css.rbxcdn.com/4b5dce375cef78073d2192583d1ecd458f10c308fa99847d649d5ec801bebd61.css" />
 
     <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="RobuxIcon" data-bundle-source="Main" href="https://css.rbxcdn.com/336216d7fcd008e8831ac95c8abbc4dab5f4f23d6b721dae128b4a905f2e35ce.css" />
 
 
-    
+    <link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ItemPurchaseUpsell" data-bundle-source="Main" href="https://css.rbxcdn.com/3c4bd9b17b9020d9ebc87d4542a68a949a9de6150a55a92f0e65514520ee777e.css" />
+<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="ItemPurchase" data-bundle-source="Main" href="https://css.rbxcdn.com/8efa79e576b0df3d4c51fb1eb4e13af137d5eb8f44aef51321f7d4abbf9c3a86.css" />
+<link rel="stylesheet" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-bundlename="IdVerification" data-bundle-source="Main" href="https://css.rbxcdn.com/3bca47a98d58fdf98a7063c4f3b390671e5326ed559813887f3945876c997da6.css" />
+
 
     
 
@@ -528,7 +497,7 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
 </script>
 
 
-    <script onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' data-monitor='true' data-bundlename='headerinit' type='text/javascript' src='https://js.rbxcdn.com/08a545ae1503441b55f5236794feccec.js'></script>
+    <script onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' data-monitor='true' data-bundlename='headerinit' type='text/javascript' src='https://js.rbxcdn.com/2014d436eaa3e9bab47b47576325467b.js'></script>
 
     <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="Polyfill" data-bundle-source="Main" src="https://js.rbxcdn.com/358ad3aa1eb24fc3f1183d478af41316f5d04bae004f77647d885c6b861e67ac.js"></script>
 
@@ -550,12 +519,6 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
     
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
 
-
-        <meta property="al:ios:url" content="robloxmobile://placeID=2753915549" />
-        <meta property="al:ios:app_store_id" content="431946152" />
-        <meta property="al:ios:app_name" content="Roblox Mobile" />
-        <meta property="al:web:should_fallback" content="false" />
-    
 
 
 <script>
@@ -585,13 +548,13 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
             _gaq.push(['b._setDomainName', 'roblox.com']);
 
             _gaq.push(['b._setCustomVar', 1, 'Visitor', 'Anonymous', 2]);
-                _gaq.push(['b._setPageGroup', 1, 'GameDetail']);
+                _gaq.push(['b._setPageGroup', 1, 'Login']);
             _gaq.push(['b._trackPageview']);
 
         _gaq.push(['c._setAccount', 'UA-26810151-2']);
             _gaq.push(['c._setSampleRate', '1']);
             _gaq.push(['c._setDomainName', 'roblox.com']);
-            _gaq.push(['c._setPageGroup', 1, 'GameDetail']);
+            _gaq.push(['c._setPageGroup', 1, 'Login']);
 
             (function() {
                 if (!Roblox.browserDoNotTrack) {
@@ -643,9 +606,9 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
                           
 
 </head>
-<body id="rbx-body" dir="ltr" class="rbx-body   light-theme builder-font" data-performance-relative-value="0.005" data-internal-page-name="GameDetail" data-send-event-percentage="0">
+<body id="rbx-body" dir="ltr" class="rbx-body   dark-theme builder-font" data-performance-relative-value="0.005" data-internal-page-name="Login" data-send-event-percentage="0">
     
-    <meta name="csrf-token" data-token="K2nRIAIEi&#x2B;hk" />
+    <meta name="csrf-token" data-token="gPbe/LUXL7oL" />
 
     
     <script src="https://roblox.com/js/hsts.js?v=3" type="text/javascript" id="hsts" async></script>
@@ -667,7 +630,7 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
 <div id="wrap" class="wrap no-gutter-ads logged-out">
 
 
-<div id="navigation-container" class="light-theme builder-font ixp-marketplace-rename-control charts-rename-exp-treatment"
+<div id="navigation-container" class="dark-theme builder-font ixp-marketplace-rename-control charts-rename-exp-treatment"
     data-number-of-autocomplete-suggestions="7"
     data-is-redirect-library-to-creator-marketplace-enabled="True"
     data-platform-event-left-nav-entry-start-time="01/01/2000 12:00:00"
@@ -775,247 +738,28 @@ Roblox.BundleDetector.setTiming(window.performance.timing);
         
         <div class="content">
             
-<div id="game-detail-page"
-     class="row page-content inline-social"
-     data-place-id="2753915549">
-    
-
-<div id="game-detail-meta-data" data-universe-id="994732206" data-place-id="2753915549"
-     data-place-name="Blox Fruits" data-page-id="993679f0-227b-4d8a-933a-c97f7abf666f"
-     data-root-place-id="2753915549"
-     data-show-shut-down-all-button="False"
-     data-user-can-manage-place="False"
-     data-private-server-price="200"
-     data-can-create-server="False"
-     data-private-server-limit="2147483647"
-     data-seller-name="Gamer Robot Inc"
-     data-seller-id="4372130"
-     data-private-server-product-id="452502750"
-     data-private-server-link-code=""
-     data-preopen-create-private-server-modal="False"
-     data-experience-invite-link-id=""
-     data-experience-invite-status=""
-     data-can-copy-place="False" class="hidden"></div>
-
-
-<div class="system-feedback">
-    <div class="alert-system-feedback">
-        <div class="alert alert-success">Purchase Completed</div>
-    </div>
-    <div class="alert-system-feedback">
-        <div class="alert alert-warning">Error occurred</div>
-    </div>
-</div>
-
-
-
-
-    <div class="col-xs-12 section-content game-main-content remove-panel follow-button-enabled">
-        <div id="game-details-carousel-container" class="game-details-carousel-container"></div>
-        <div class="game-calls-to-action">
-            <div class="game-title-container">
-                    <h1 class="game-name" title="Blox Fruits">Blox Fruits</h1>
-
-                    <div class="game-creator with-verified-badge"><span class='text-label'>By</span> <a class='text-name text-overflow' href='https://www.roblox.com/groups/4372130'>Gamer Robot Inc</a>
-                        <span class="verified-badge-icon hidden" data-size="Subheader" data-overrideImgClass="verified-badge-icon-experience-creator" data-surface="Web_ExperienceDetailsPage_NameUnderExperienceTitle" data-creatorid="0" data-universeid="994732206"></span>
-                    </div>
-
-
-                <div id="game-age-recommendation-container"></div>
-                <span id="2sv-popup-container"></span>
-            </div>
-
-            <div class="game-buttons-container">
-
-                <div id="game-details-play-button-container" class="game-details-play-button-container">
-                    <span class="spinner spinner-default"></span>
-                </div>
-
-                <!-- New Favorite/Follow/Vote/Share section -->
-                <ul class="favorite-follow-vote-share">
-                            <li class="game-favorite-button-container">
-        <div class="tooltip-container" data-toggle="tooltip" title="" data-original-title="Add to Favorites">
-            <div class="favorite-button">
-                <a id="toggle-game-favorite" data-toggle-url="/favorite/toggle" data-assetid="2753915549" data-isguest="True"
-                    data-signin-url="https://www.roblox.com/NewLogin?returnUrl=/games/2753915549/Blox-Fruits">
-                    <div id="game-favorite-icon" class="icon-favorite "></div>
-                    <div id="game-favorite-icon-label" class="icon-label">Favorite</div>
-                </a>
-            </div>
+        <div id="react-login-container"
+             class="login-container"
+             data-return-url="https://www.roblox.com/games/2753915549/Blox-Fruits?gameSearchSessionInfo=15d428d6-fd76-4d69-8c03-d8c89951d603&amp;isAd=false&amp;nativeAdData=&amp;numberOfLoadedTiles=40&amp;page=searchPage&amp;placeId=2753915549&amp;position=0&amp;universeId=994732206"
+             data-enable-react-ui="true">
         </div>
- </li>
-                            <li class="game-follow-button-container">
-
-    <div class="tooltip-container" data-toggle="tooltip" title="" data-original-title="">
-        <div class="follow-button">
-            <a id="toggle-game-follow" data-universe-id="994732206"
-                data-is-guest="true" data-signin-url="https://www.roblox.com/NewLogin?returnUrl=/games/2753915549/Blox-Fruits"
-                data-user-id="0" data-originator=""
-                data-originator-id=""
-                data-notifications-opt-in-enabled="False">
-                <div id="game-follow-icon" class="icon-follow-game"></div>
-                <div id="game-follow-icon-label" class="icon-label">
-                    Follow</div>
-            </a>
-        </div>
-    </div>
-</li>
-                    <li id="voting-container" class="voting-panel">
-                        <span class="game-voting-panel spinner spinner-default"></span>
-                    </li>
-
-                    <li class="social-media-share">
-                    </li><!-- .social-media-share -->
-                </ul>
-            </div>
-        </div>
-        <div id="game-details-invite-link-expired-modal-container"></div>
-    </div>
-
-    <div class="col-xs-12 rbx-tabs-horizontal"
-         data-place-id="2753915549">
-        <ul id="horizontal-tabs" class="nav nav-tabs" role="tablist">
-            <li id="tab-about" class="rbx-tab tab-about active">
-                <a class="rbx-tab-heading" href="#about">
-                    <span class="text-lead">About</span>
-                </a>
-            </li>
-            <li id="tab-store" class="rbx-tab tab-store">
-                <a class="rbx-tab-heading" href="#store">
-                    <span class="text-lead">Store</span>
-                </a>
-            </li>
-            <li id="tab-game-instances" class="rbx-tab tab-game-instances">
-                <a class="rbx-tab-heading" href="#game-instances">
-                    <span class="text-lead">Servers</span>
-                </a>
-            </li>
-        </ul>
-        <div class="tab-content rbx-tab-content">
-            <div class="tab-pane active" id="about">
-                    <div id="game-details-about-tab-container" class="game-details-about-tab-container">
-                        <span class="spinner spinner-default"></span>
-                    </div>
 
 
-
-            </div>
-            <div class="tab-pane store" id="store">
-                        <div id="rbx-subscriptions-container"></div>
-
-
-<div id="rbx-game-passes" class="container-list game-dev-store game-passes">
-    <div class="container-header">
-        <h3>Passes</h3>
-    </div>
-    <ul id="rbx-passes-container" class="hlist store-cards gear-passes-container">
-    </ul>
-    
-</div>
-<li class='list-item rbx-passes-item-container rbx-gear-passes-item-add' id='spinner' style="display: none;">
-    <span class="spinner spinner-default"></span>
-</li>
 
 <script>
-    $(function() {
-        Roblox.GamePassJSData = Roblox.GamePassJSData || {};
-        Roblox.GamePassJSData.PlaceID = 2753915549;
-        Roblox.GamePassJSData.GamePassesPerPlaceLimit = 50;
-
-        Roblox.GamePassJSData.LabelBuy = "Buy";
-        Roblox.GamePassJSData.LabelOwned = "Owned";
-        Roblox.GamePassJSData.DataAssetType = "Game Pass";
-
-        var purchaseConfirmationCallback = function(obj) {
-            var originalContainer = $('.PurchaseButton[data-item-id=' + obj.AssetID + ']').parent('.store-card-caption');
-            originalContainer.find('.rbx-purchased').hide();
-            originalContainer.find('.rbx-item-buy').show();
-
-        };
-        Roblox.GamePassItemPurchase = new Roblox.ItemPurchase(purchaseConfirmationCallback);
-
-        $("#store #rbx-game-passes, #all-purchasable-items #rbx-game-passes").on("click",
-            ".PurchaseButton",
-            function(e) {
-                Roblox.GamePassItemPurchase.openPurchaseVerificationView($(this), 'game-pass');
-            });
-
-        $("#store #rbx-game-passes .btn-more, #all-purchasable-items #rbx-game-passes .btn-more").on("click",
-            function(e) {
-                $("#rbx-game-passes #rbx-passes-container").toggleClass("collapsed");
-            });
-
-        $(".rbx-tab a[href='#store']").one('shown.bs.tab',
-            function() {
-                Roblox.GamePassLazyLoading.init();
-            });
-
-        var checkForImmediateLoading = function () {
-            var loadImmediatelyData = $("#all-purchasable-items").data('load-immediately');
-            if (parseInt(loadImmediatelyData) > 0) {
-                Roblox.GamePassLazyLoading.init();
-            }
-        }
-
-        checkForImmediateLoading();
-    });
-</script>            </div>
-
-            <div class="tab-pane game-instances" id="game-instances">
-                        <div class="col-xs-12 section-content-off">There are currently no running experiences.</div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div class="GenericModal modalPopup unifiedModal smallModal" style="display:none;">
-    <div class="Title"></div>
-    <div class="GenericModalBody">
-        <div>
-            <div class="ImageContainer">
-                <img class="GenericModalImage" alt="generic image"/>
-            </div>
-            <div class="Message"></div>
-        </div>
-        <div class="clear"></div>
-        <div id="GenericModalButtonContainer" class="GenericModalButtonContainer">
-            <a class="ImageButton btn-neutral btn-large roblox-ok">OK</a>
-        </div>
-    </div>
-</div>
-
-<div id="ItemPurchaseAjaxData"
-     data-has-currency-service-error="False"
-     data-currency-service-error-message=""
-     data-authenticateduser-isnull="True"
-     data-user-balance-robux="0"
-     data-user-bc="0"
-     data-continueshopping-url="https://www.roblox.com/games/2753915549/Blox-Fruits"
-     data-imageurl="https://t6.rbxcdn.com/daa2269e7d42040b3289a4afee79a7a7"
-     data-alerturl="https://images.rbxcdn.com/b7353602bbf9b927d572d5887f97d452.svg"
-     data-inSufficentFundsurl="https://images.rbxcdn.com/b80339ddf867ccfe6ab23a2c263d8000.png"
-     data-is-bc-only-requirement-enabled="False"
-     data-is-plugins-purchasing-enabled="True"
-     data-is-modal-footer-centered-enabled="True">
-
-</div>
-
-
-<script type="text/javascript">
-var Roblox = Roblox || {};
-Roblox.GamePassJSData = Roblox.GamePassJSData || {};
-Roblox.DeveloperProductJSData = Roblox.DeveloperProductJSData || {};
-Roblox.GamePassJSData.LabelGameDoesNotSell = "No passes available.";
-Roblox.DeveloperProductJSData.LabelNoProducts = "No products available.";
-
-    $(function() {
-        if (Roblox.Voting) {
-            Roblox.Voting.LoadVotingService($("#voting-container"), 2753915549);
-        }
-    });
+    var Roblox = Roblox || {};
+    Roblox.LoginMeta = {
+        signupUrl: "https://www.roblox.com/account/signupredir",
+        forgotCredentialsUrl: "https://www.roblox.com/login/forgot-password-or-username",
+        homeUrl: "https://www.roblox.com/home",
+        securityNotificationUrl: "https://www.roblox.com/login/securityNotification",
+        apiProxyUrl: "https://api.roblox.com",
+        loginPageUrl: "https://www.roblox.com/NewLogin",
+        isLoginWithEmailEnabled: true,
+        isLoginWithPhoneEnabled: true,
+        isPromptUnverifiedEmailsEnabled: false
+    };
 </script>
-
         </div>
         
     </main><!--Bootstrap Footer React Component -->
@@ -1356,16 +1100,16 @@ function checkRobloxInstall() {
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.OneTimePasscode" data-bundle-source="Unknown" src="https://js.rbxcdn.com/85208f99ce501214ee1fa2dcd97b294f330e1a23e9c378d596b9575ee15d7759.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.Login" data-bundle-source="Unknown" src="https://js.rbxcdn.com/d6aff8b56a356dd6d4e5f7e49cce1b769059fc1ea10c8a759efc4731b1ebe072.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="Challenge" data-bundle-source="Main" src="https://js.rbxcdn.com/89b61040feba0951176b9ed821d09afccb7263122499575cd19d91e7d8f1cf75.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.Reauthentication" data-bundle-source="Unknown" src="https://js.rbxcdn.com/730fcbf0eba6dd82de9b0029e157627f023e6f448059c5b4c6a4f356222b3ac0.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.SecurityQuestions" data-bundle-source="Unknown" src="https://js.rbxcdn.com/2da1b676b979a60ce3b9471d919f53c6523c606f10e6ba75fa3c168945b8455a.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ProofOfWorkChallenge" data-bundle-source="Unknown" src="https://js.rbxcdn.com/b41227fe1ecc1f4409f2e33f02d4d968f6d6389349d2221f481ff3b34e01a257.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ForceAuthenticator" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5fbd8389fb24177a5be64285e12645c445dee91f0a686d5bed5865f0e009d387.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ForceTwoStepVerification" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5a5300a5800d03e45af07f710bbcfae2d6a2f4edea9305cb47a488bb57b74455.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ProofOfSpaceChallenge" data-bundle-source="Unknown" src="https://js.rbxcdn.com/3fec2c529efef400a78a26a5c0a2d33e3e7ec0a13971616a31cd958214c71e37.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.Captcha" data-bundle-source="Unknown" src="https://js.rbxcdn.com/44ff0f2cc820b734456e36bcd3528a30460f0576ff6ff17478b2d84824b64abd.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.TwoStepVerification" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ad33ead29e90b9c8822f2eaab8569e1e7120be60fea1b902b7191b91c1cf610a.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.RostileChallenge" data-bundle-source="Unknown" src="https://js.rbxcdn.com/88bacf62dae20f1d352d30afbd3df4c64ba7a24c551c6ee02152719cfb11b830.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.PrivateAccessTokenChallenge" data-bundle-source="Unknown" src="https://js.rbxcdn.com/94a14bf31ad0a75d3878f6772e6d5a251e7da9b64894e2176a07f65f4d79d8a3.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.TwoStepVerification" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ad33ead29e90b9c8822f2eaab8569e1e7120be60fea1b902b7191b91c1cf610a.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.Captcha" data-bundle-source="Unknown" src="https://js.rbxcdn.com/44ff0f2cc820b734456e36bcd3528a30460f0576ff6ff17478b2d84824b64abd.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.SecurityQuestions" data-bundle-source="Unknown" src="https://js.rbxcdn.com/2da1b676b979a60ce3b9471d919f53c6523c606f10e6ba75fa3c168945b8455a.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ProofOfWorkChallenge" data-bundle-source="Unknown" src="https://js.rbxcdn.com/b41227fe1ecc1f4409f2e33f02d4d968f6d6389349d2221f481ff3b34e01a257.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ForceTwoStepVerification" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5a5300a5800d03e45af07f710bbcfae2d6a2f4edea9305cb47a488bb57b74455.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ForceAuthenticator" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5fbd8389fb24177a5be64285e12645c445dee91f0a686d5bed5865f0e009d387.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.Reauthentication" data-bundle-source="Unknown" src="https://js.rbxcdn.com/730fcbf0eba6dd82de9b0029e157627f023e6f448059c5b4c6a4f356222b3ac0.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="VerificationUpsell" data-bundle-source="Main" src="https://js.rbxcdn.com/5e8d380d84b53577878570674440c91901c6228d8b0db6d7ce73fc36bec4fc7a.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.VerificationUpsell" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ff9e20d31dfa1272432e8e384050a5bac8153c69852dc0a8be11c2ac66b68402.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="Experimentation" data-bundle-source="Main" src="https://js.rbxcdn.com/c4b0a446b38285f3db5472340f4ef27d737c87b78348e36dc7acbcfec89d70bf.js"></script>
@@ -1376,11 +1120,11 @@ function checkRobloxInstall() {
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.AccountSwitch" data-bundle-source="Unknown" src="https://js.rbxcdn.com/10ef4a4b892f4fde2e22b11930eafc358dc1ff59e17b44095514daf733a2f101.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="PriceTag" data-bundle-source="Main" src="https://js.rbxcdn.com/cd456bb506f1b0b06a2eb645ca018d367185ca84725ec00d524e35ce431f4a8c.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="Navigation" data-bundle-source="Main" src="https://js.rbxcdn.com/58b8fc921ad73b016d06e8aab24c5d5d3d97b904fa819c653b025420a58b441a.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Common.AlertsAndOptions" data-bundle-source="Unknown" src="https://js.rbxcdn.com/8eaa83d2ed77b93e46a7d062e56a012b4494a64224016fcc3be4a43b1e85e770.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Purchasing.RedeemGameCard" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ea9d797dd3abe4a39714772866da5af503045dce70e9cd196602523f77cc95f3.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ShopDialog" data-bundle-source="Unknown" src="https://js.rbxcdn.com/13b3b0cf97cfb5da4538eb0c59f252188b4f724f9328c264a58d24a714e41fe5.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Common.Presence" data-bundle-source="Unknown" src="https://js.rbxcdn.com/7f4c2753c55dc89d4c9bf2dbfbf34e224194f6255457c0bd8c8c1ed0e6350f3a.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ShopDialog" data-bundle-source="Unknown" src="https://js.rbxcdn.com/13b3b0cf97cfb5da4538eb0c59f252188b4f724f9328c264a58d24a714e41fe5.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Purchasing.RedeemGameCard" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ea9d797dd3abe4a39714772866da5af503045dce70e9cd196602523f77cc95f3.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_CommonUI.Features" data-bundle-source="Unknown" src="https://js.rbxcdn.com/256ca0412276d27fbfa7eb7e009b028452286c6210048348ec01f1f1b583c135.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Common.AlertsAndOptions" data-bundle-source="Unknown" src="https://js.rbxcdn.com/8eaa83d2ed77b93e46a7d062e56a012b4494a64224016fcc3be4a43b1e85e770.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_CommonUI.Messages" data-bundle-source="Unknown" src="https://js.rbxcdn.com/8db8d8704b1403e4c919554c73598a33742864def2eb7bf95279260fe5193313.js"></script>
 
     
@@ -1457,7 +1201,7 @@ function checkRobloxInstall() {
 
 </script>
 
-    <script onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' data-monitor='true' data-bundlename='page' type='text/javascript' src='https://js.rbxcdn.com/188e5a6d91e4e5f7897c39c62a70276a.js'></script>
+    <script onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' data-monitor='true' data-bundlename='page' type='text/javascript' src='https://js.rbxcdn.com/93ee85b0c6bc634c4dd745223f0f8175.js'></script>
 
 
     <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="StyleGuide" data-bundle-source="Main" src="https://js.rbxcdn.com/b37f27692abfd4515ec53562e3bd54cbe3a8e410b7f589d78f413e1e14d511e8.js"></script>
@@ -1469,55 +1213,38 @@ function checkRobloxInstall() {
 
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="AccessManagementUpsellV2" data-bundle-source="Main" src="https://js.rbxcdn.com/fc33d0489e596918eb1b99295fb2d5e958980b031a11648956c97f1e52ab1207.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.IdVerification" data-bundle-source="Unknown" src="https://js.rbxcdn.com/4df6ec52559e1c250d3f2e8286e1ffca9f33998dcddcfaf096a4bcd364bbf808.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell" data-bundle-source="Unknown" src="https://js.rbxcdn.com/aff2cdd67a84ad537fb2b3e904411bfa9eb52ab295378592e4a0e7d9df8153ad.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Amp.Upsell" data-bundle-source="Unknown" src="https://js.rbxcdn.com/7dfebd67df86704c5a4d0f77b495d2f9e6f03e4a7f12d0a030ad6bf27e5f7c48.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.Parents" data-bundle-source="Unknown" src="https://js.rbxcdn.com/24df426ab534c76fcce3b77771c3eb2a08c8cf3e25dd517617b57bd3e7a6d0d7.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.AgeVerificationUpsell" data-bundle-source="Unknown" src="https://js.rbxcdn.com/aff2cdd67a84ad537fb2b3e904411bfa9eb52ab295378592e4a0e7d9df8153ad.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GlobalPrivacyControlChecker" data-bundle-source="Main" src="https://js.rbxcdn.com/cddef009765ca412658d8c18eaf9fe332b3b54af2143085b8347781a767094f0.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="Captcha" data-bundle-source="Main" src="https://js.rbxcdn.com/4bd1d2c26b9554957dba7a429527fc5b73ff6949c827448ffe265cb819285202.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="CursorPagination" data-bundle-source="Main" src="https://js.rbxcdn.com/966e7d62281fb04569c27fc1c68ae404d0d2385ecc1ed3ceb532bd1623012fb9.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameBadges" data-bundle-source="Main" src="https://js.rbxcdn.com/b2499fa3a7519dd9eb06b6edc121aebac477446905c7735234cbfa71716184ba.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.GameBadges" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ee18e129eca8b88c035a8fbd27cc4956abdf04a3a16a1efbc263c1d5e3274dca.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="ItemPurchaseUpsell" data-bundle-source="Main" src="https://js.rbxcdn.com/7a9cf4d8f6a47e1d5d7ee2a7d989fedb45ebc2a18dc21e37893e8745988c309c.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Purchasing.PurchaseDialog" data-bundle-source="Unknown" src="https://js.rbxcdn.com/3be249df6cf28d68864b6c4265dc0ab7c4e2f7ca5e1f0db46158876678cdde06.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="CrossDeviceLoginDisplayCode" data-bundle-source="Main" src="https://js.rbxcdn.com/2ffcfadeed2e20b3e6395cc3dabefb7bbb60cf00a17ca915c1b3828eea5a9c7c.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.CrossDevice" data-bundle-source="Unknown" src="https://js.rbxcdn.com/1b37f6854cd6a6c317afa1cc9973017836e197ef1f5a1d27c087d29a340dd8c0.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="AccountSelector" data-bundle-source="Main" src="https://js.rbxcdn.com/b0fbd6bc5e01a6149d6ad9c8333646430db4f8a31d66566d4204d6848b65511f.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="ReactLogin" data-bundle-source="Main" src="https://js.rbxcdn.com/bf3342cd2cf4a19c6c07040218b5f286f0cf59059f6782ba09fe9f36eb0c869c.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Common.Captcha" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5f2ee2913bf919a8576bbe4120a6d41b933e814a4779a0a3fc1d9d941c5ee368.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="AccountRecoveryModal" data-bundle-source="Main" src="https://js.rbxcdn.com/0056022aadda7fc97ab043ed4f014c54aa31c5b13aa2d33840a736db2bc286b4.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Authentication.ResetPassword" data-bundle-source="Unknown" src="https://js.rbxcdn.com/44cb400430ff406639fc66553976f291f7b6825b13aa30d1f00f3e7d9c3ebc10.js"></script>
+
+
+
+
+    <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="ItemPurchaseUpsell" data-bundle-source="Main" src="https://js.rbxcdn.com/7a9cf4d8f6a47e1d5d7ee2a7d989fedb45ebc2a18dc21e37893e8745988c309c.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.Premium" data-bundle-source="Unknown" src="https://js.rbxcdn.com/8dd47feef8b1346f29d289045136ede4583f41802f09eea61d8d2e5b7a54ed3b.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Purchasing.PurchaseDialog" data-bundle-source="Unknown" src="https://js.rbxcdn.com/3be249df6cf28d68864b6c4265dc0ab7c4e2f7ca5e1f0db46158876678cdde06.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="ItemDetailsHydrationService" data-bundle-source="Main" src="https://js.rbxcdn.com/e37c38380dd60e38049fadac04425553ca7666a0e0d56f5e4f48e108a7f705a6.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="ItemPurchase" data-bundle-source="Main" src="https://js.rbxcdn.com/7ed0f12b5fd16dd6cac7d7f3899452b314c598a1759432971e09f6a54d24b600.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ItemModel" data-bundle-source="Unknown" src="https://js.rbxcdn.com/54c13aaea011e94d285d4171277dbaa0a2ec1bf763b408d71f2adc7f72bad919.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.Item" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ba8d8575fdb6e0bab85e9715a0084d297ade28957a6e64d73ec56af6c0a648e9.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ItemModel" data-bundle-source="Unknown" src="https://js.rbxcdn.com/54c13aaea011e94d285d4171277dbaa0a2ec1bf763b408d71f2adc7f72bad919.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="IdVerification" data-bundle-source="Main" src="https://js.rbxcdn.com/bd18305af9e4ce41099df37e554eeb1bf2cc139ffba636e356666ccd9d07481c.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Verification.Identity" data-bundle-source="Unknown" src="https://js.rbxcdn.com/35f0d01b47b92a779a0eb4c083a91f682d01b13e759d03f4dfe2f87bc608c2c6.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameLaunch" data-bundle-source="Main" src="https://js.rbxcdn.com/3538dd4c50590901b7497b7aa8707a656f60bdd16e79b2fdc35fb9866f3ba871.js"></script>
+<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ExperienceDetails" data-bundle-source="Unknown" src="https://js.rbxcdn.com/2c736e6db597afc5ceb35e15498b1d4ffeeb75fd1cb58c40924e8b1629b2b80f.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Common.VisitGame" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5e740130ceecbb0e1340b712955c239f6395e918d1558fe7982933b895d728e5.js"></script>
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.GameLaunchGuestMode" data-bundle-source="Unknown" src="https://js.rbxcdn.com/1eba4a5ba48b46f09a1576cdd3e3440341efdcebc7150e44b4e743da95e3e830.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ExperienceDetails" data-bundle-source="Unknown" src="https://js.rbxcdn.com/2c736e6db597afc5ceb35e15498b1d4ffeeb75fd1cb58c40924e8b1629b2b80f.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameDetailsVirtualEventsSection" data-bundle-source="Main" src="https://js.rbxcdn.com/0b4b4afe95322896039e7817b170716fe9011e75652372b3db6702a21491e210.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.VirtualEvents" data-bundle-source="Unknown" src="https://js.rbxcdn.com/d4372b33fac83fe769326978e3706171f11cb34dd3163c6e1e3afe2d539495c7.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="SocialLinksJumbotron" data-bundle-source="Main" src="https://js.rbxcdn.com/cece4d5f7979c53bd6216c3e028ea658aa8fde7199bb230a13cdefdce4cc35df.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.PromotedChannels" data-bundle-source="Unknown" src="https://js.rbxcdn.com/4676f947cfba5c379e455034eb71fbc66203058672050c559cf2c93c864dca17.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="ServerList" data-bundle-source="Main" src="https://js.rbxcdn.com/ea235676ba2a672b9c6df99f906befeca28891505100f18fe457465c7ae83452.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.PrivateServers" data-bundle-source="Unknown" src="https://js.rbxcdn.com/139b371514a83577bf8d19eec12814530694164be527521d9e3744beb1bd5cce.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.ServerList" data-bundle-source="Unknown" src="https://js.rbxcdn.com/a2a7afbeff9d2d3cdad03da202c1d362d03e7513c84c6edd032d4f602486c56f.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.VIPServer" data-bundle-source="Unknown" src="https://js.rbxcdn.com/02493bccf7001baa8590995c48e3233a7fafecd0c4ee6145e3e0b033b45d0caa.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameGuidelines" data-bundle-source="Main" src="https://js.rbxcdn.com/1a6bbd0f73c2ba26be0480a5c590426c5b41ed2c741187a4c781ceae6f4a3667.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.GameDetails" data-bundle-source="Unknown" src="https://js.rbxcdn.com/d34766339ff83c51d3e9a009df537107c8611c414120f5c626a46a7ec2000ceb.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameCommunity" data-bundle-source="Main" src="https://js.rbxcdn.com/5c402b6edc9058f50510b1ec7582160a35b80fd9a28911bb926aa651d28a29a4.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.CommunityLinks" data-bundle-source="Unknown" src="https://js.rbxcdn.com/5ae38cee9aed098e9680b6f2ecacc829b8a5a5fa9cd2ebbf61a3a4d397840f91.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameSubscriptions" data-bundle-source="Main" src="https://js.rbxcdn.com/0c1285771da24be450236886e669d4062bc058cea9e2f6a7e89bd33d5b7ffbff.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Common.VerifiedParentalConsent" data-bundle-source="Unknown" src="https://js.rbxcdn.com/7dd1a0bf7f5bbce70034992e4d194080c4ef565857b29b85e633a37fa0af7e22.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.Subscription" data-bundle-source="Unknown" src="https://js.rbxcdn.com/ef48f69c7b55347e5ed987f5ff6a1a3a018f1882612c6843302b1971a85a81d4.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="GameDetails" data-bundle-source="Main" src="https://js.rbxcdn.com/70e852297f380948970b48461039111e8afbf8cceb426fae1bb463551edb5470.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.SocialShare" data-bundle-source="Unknown" src="https://js.rbxcdn.com/f82474cc57fda02938e5ed5fe9adcfa986e91e2239d22c73f1009223fe7f8899.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="DynamicLocalizationResourceScript_Feature.GameGearOptionsDisplay" data-bundle-source="Unknown" src="https://js.rbxcdn.com/d8a95e955f2097b2d94d0fabb13c746dc86a57b4b6a39abc6b3e66a268d60c20.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="RecommendedGames" data-bundle-source="Main" src="https://js.rbxcdn.com/5afc9cb333c83141b473c5daebc91f6c6ed9b655a77475589a787ffa08f4761c.js"></script>
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="AccessManagementUpsell" data-bundle-source="Main" src="https://js.rbxcdn.com/5ccd8c1310727326b4faaef5f5cee1301f3d08992b0ad3630a8c80b72d6c4a59.js"></script>
 
 
 
-
-    
-
-
-<script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="LatencyMeasurement" data-bundle-source="Main" src="https://js.rbxcdn.com/90bb51db086699ec26a6c9df04087678948883f8c3ddd1037c7223a20ff4fe90.js"></script>
 
 
 <script type="text/javascript" onerror="Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)" data-monitor="true" data-bundlename="UserAgreementsChecker" data-bundle-source="Main" src="https://js.rbxcdn.com/846daf4727935bf2ce0c89ac0f21292485a9e326c1485ad9717a862220944abe.js"></script>
@@ -1526,7 +1253,7 @@ function checkRobloxInstall() {
 
 
 
-    <script onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' data-monitor='true' data-bundlename='pageEnd' type='text/javascript' src='https://js.rbxcdn.com/ad7475c7cdc0505ba14bbd561dfa8fa4.js'></script>
+    <script onerror='Roblox.BundleDetector && Roblox.BundleDetector.reportBundleError(this)' data-monitor='true' data-bundlename='pageEnd' type='text/javascript' src='https://js.rbxcdn.com/1bacd0e7f37d30c2f019bc3d95d70107.js'></script>
 
 
 </body>
